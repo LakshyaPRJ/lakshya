@@ -69,7 +69,7 @@ const About = () => {
                     <span className="flex items-center gap-1">
                       <Calendar className="w-4 h-4" /> 2022-2026
                     </span>
-                    <span>CGPA: 7.256</span>
+                    <span>CGPA: 7.378</span>
                   </div>
                 </div>
                 <div className="border-l-2 border-primary/30 pl-4">
