@@ -58,6 +58,14 @@ const projects = [
     link: 'https://github.com/LakshyaPRJ/extract_and_install_fonts',
     color: 'accent',
   },
+  {
+    title: 'Shadow Detection and Removal System',
+    description: 'Developed CTU-Net+, a CNN-Transformer shadow detection/removal system with illumination compensation, adaptive segmentation, and GAN refinement, achieving BER 2.351.',
+    icon: FileCode,
+    tags: ['Python', 'Deep Learning', 'Machine Learning'],
+    link: 'https://www.linkedin.com/feed/update/urn:li:activity:7462439851997429760/',
+    color: 'accent',
+  },
 ];
 
 const Projects = () => {
