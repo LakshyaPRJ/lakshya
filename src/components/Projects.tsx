@@ -66,6 +66,14 @@ const projects = [
     link: 'https://www.linkedin.com/feed/update/urn:li:activity:7462439851997429760/',
     color: 'accent',
   },
+  {
+    title: 'LixiLens, AI Vision-Based Reading Assistant',
+    description: 'Developed LixiLens, an AI-powered reading assistant that extracts difficult vocabulary from book pages, providing contextual definitions without disrupting reading.',
+    icon: FileCode,
+    tags: ['API', 'OCR', 'NLP'],
+    link: 'https://lixilens.vercel.app/',
+    color: 'accent',
+  },
 ];
 
 const Projects = () => {
