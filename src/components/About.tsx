@@ -11,7 +11,7 @@ const About = () => {
         <div className="text-center mb-16">
           <h2 className="section-title">About Me</h2>
           <p className="section-subtitle mx-auto">
-            Passionate about turning data into actionable insights
+            Engineering solutions to problems I personally encounter
           </p>
         </div>
 
