@@ -3,6 +3,38 @@ import { Button } from './ui/button';
 
 const projects = [
   {
+    title: 'LixiLens, AI Vision-Based Reading Assistant',
+    description: 'Developed LixiLens, an AI-powered reading assistant that extracts difficult vocabulary from book pages, providing contextual definitions without disrupting reading.',
+    icon: FileCode,
+    tags: ['API', 'OCR', 'NLP'],
+    link: 'https://lixilens.vercel.app/',
+    color: 'accent',
+  },
+  {
+    title: 'Shadow Detection and Removal System',
+    description: 'Developed CTU-Net+, a CNN-Transformer shadow detection/removal system with illumination compensation, adaptive segmentation, and GAN refinement, achieving BER 2.351.',
+    icon: FileCode,
+    tags: ['Python', 'Deep Learning', 'Machine Learning'],
+    link: 'https://www.linkedin.com/feed/update/urn:li:activity:7462439851997429760/',
+    color: 'accent',
+  },
+  {
+    title: 'Font Installer Automation Script',
+    description: 'Python script to automatically install fonts from ZIP files on Windows with admin check and font cache refresh.',
+    icon: FileCode,
+    tags: ['Python', 'Windows', 'Automation'],
+    link: 'https://github.com/LakshyaPRJ/extract_and_install_fonts',
+    color: 'accent',
+  },
+  {
+    title: 'Social Media Automation Workflow',
+    description: 'End-to-end automation using n8n, Google Sheets, OpenAI, LinkedIn API, and X API for auto-publishing content across platforms.',
+    icon: Cpu,
+    tags: ['n8n', 'OpenAI', 'APIs', 'Automation'],
+    link: 'https://www.linkedin.com/feed/update/urn:li:activity:7362964211729125377/',
+    color: 'primary',
+  },
+  {
     title: 'Real-Time Face Recognition Attendance',
     description: 'Built a real-time face recognition system to automate attendance marking using webcam, OpenCV, and facial encodings with automated data logging.',
     icon: Users,
@@ -41,38 +73,6 @@ const projects = [
     tags: ['Python', 'Telebot API', 'PythonAnywhere'],
     link: 'https://t.me/handgamerbot',
     color: 'twilight-purple',
-  },
-  {
-    title: 'Social Media Automation Workflow',
-    description: 'End-to-end automation using n8n, Google Sheets, OpenAI, LinkedIn API, and X API for auto-publishing content across platforms.',
-    icon: Cpu,
-    tags: ['n8n', 'OpenAI', 'APIs', 'Automation'],
-    link: 'https://www.linkedin.com/feed/update/urn:li:activity:7362964211729125377/',
-    color: 'primary',
-  },
-  {
-    title: 'Font Installer Automation Script',
-    description: 'Python script to automatically install fonts from ZIP files on Windows with admin check and font cache refresh.',
-    icon: FileCode,
-    tags: ['Python', 'Windows', 'Automation'],
-    link: 'https://github.com/LakshyaPRJ/extract_and_install_fonts',
-    color: 'accent',
-  },
-  {
-    title: 'Shadow Detection and Removal System',
-    description: 'Developed CTU-Net+, a CNN-Transformer shadow detection/removal system with illumination compensation, adaptive segmentation, and GAN refinement, achieving BER 2.351.',
-    icon: FileCode,
-    tags: ['Python', 'Deep Learning', 'Machine Learning'],
-    link: 'https://www.linkedin.com/feed/update/urn:li:activity:7462439851997429760/',
-    color: 'accent',
-  },
-  {
-    title: 'LixiLens, AI Vision-Based Reading Assistant',
-    description: 'Developed LixiLens, an AI-powered reading assistant that extracts difficult vocabulary from book pages, providing contextual definitions without disrupting reading.',
-    icon: FileCode,
-    tags: ['API', 'OCR', 'NLP'],
-    link: 'https://lixilens.vercel.app/',
-    color: 'accent',
   },
 ];
 
