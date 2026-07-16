@@ -4,7 +4,7 @@ const certificates = [
   {
     title: 'Data Science Internship',
     issuer: 'DaOrion Consulting Pvt Ltd',
-    link: 'https://drive.google.com/file/d/1YoZxH_cFlywxmk9XisAfPOLIoQNYilpS/view',
+    link: 'https://drive.google.com/file/d/1EcEL9o-7ilE-CVx1jOfi1gWRn0L6_xaN/view?usp=sharing',
     description: 'Completed internship with focus on disease prediction models and healthcare data analytics',
   },
   {
