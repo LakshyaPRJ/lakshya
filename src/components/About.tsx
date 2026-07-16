@@ -97,7 +97,7 @@ const About = () => {
                   <p className="text-muted-foreground text-sm">DaOrion Consulting Pvt Ltd</p>
                   <div className="flex items-center gap-4 mt-1 text-sm text-muted-foreground">
                     <span className="flex items-center gap-1">
-                      <Calendar className="w-4 h-4" /> Apr-June 2025
+                      <Calendar className="w-4 h-4" /> Apr-Sep 2025
                     </span>
                     <span className="flex items-center gap-1">
                       <MapPin className="w-4 h-4" /> Noida
